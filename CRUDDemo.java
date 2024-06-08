@@ -103,7 +103,7 @@ class CRUDDemo{
                                 System.out.println("Not found!");
                             }
                             else{
-                                System.out.println("Deleted Successfully");
+                                System.out.println("Deleted Successfully lol");
                             }
                             System.out.println("-------------------------");
                             break;
