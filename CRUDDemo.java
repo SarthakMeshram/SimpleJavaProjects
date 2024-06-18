@@ -98,12 +98,12 @@ class CRUDDemo{
                                 i.remove();
                                 found = true;
                                 }
-                            }
+                            }                
                             if(!found){
                                 System.out.println("Not found!");
                             }
                             else{
-                                System.out.println("Deleted Successfully lol");
+                                System.out.println("Deleted Successfully");
                             }
                             System.out.println("-------------------------");
                             break;
